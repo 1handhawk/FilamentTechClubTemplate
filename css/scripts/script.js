@@ -18,3 +18,4 @@ function selectNewColor(currentColor) {
     } else if (currentColor === "green") {
     }
     }
+    return newColor;
